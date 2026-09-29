@@ -1,0 +1,6 @@
+{
+  "name": "Pazi - AI Agent Platform",
+  "description": "Create, run, and monitor AI agents that work seamlessly through web apps and Slack.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
